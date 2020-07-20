@@ -1,13 +1,19 @@
-<h3><b>Anthony Robles Portfolio</b></h3>
+# Professional Materials :man_office_worker:
 
-<h4><b>Descpription</b></h4>
+### Purpose
 
-This is a basic portfolio website created with the Bootstrap 4 framework.
+Updating portfolio page and other materials to build toward being employer competitive.
 
-<h4><b>Purpose</b></h4>
+### Updated Portfolio
+- Your name
+- Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+- A link to a PDF of your resume
+- A list of projects. For each project, make sure you have the following:
+- Project title
+- Link to the deployed version
+- Link to the GitHub repository
+- Screenshot of the deployed application
 
-The purpose of this project is to get familiar with the Bootstrap css framework, creating responsive content, and portfolio update.
-
-<h4><b>Link to the deployed application</b></h4>
+### Link to the deployed application:
 
 You can find the deployed application <a href="https://arobl034.github.io/main-portfolio.github.io/" target="_blank">here</a>
